@@ -1,0 +1,6 @@
+{
+  "name": "selenium-test",
+  "dependencies": {
+    "selenium-webdriver": "4.10.0"
+  }
+}
